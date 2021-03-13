@@ -17,7 +17,7 @@ public class Calculator {
         System.out.println("\t\t\t\t\t\t\t\tWelcome to scietific calculator");
         do{
             try{
-                System.out.println("\n1. Square root \n2. Factorial\n3. Natural log\n4. Power");
+                System.out.println("\n1. Square root \n2. Factorial\n3. Natural log\n4. Power\n5. Exit");
                 System.out.print("\nEnter your choice: ");
                 choice = scanner.nextInt();
             }
@@ -32,7 +32,7 @@ public class Calculator {
                     double sqrt;
                     try
                     {
-                        System.out.println("Enter value: ");
+                        System.out.print("Enter value: ");
                         sqrt = scanner.nextDouble();
                     }
                     catch (InputMismatchException im)
@@ -83,7 +83,7 @@ public class Calculator {
                         System.out.println("======================================================");
                     }
                     else{
-                        logging.error("[ERROR]: Log is not defined for Negative numbers");
+                        logging.error("[ERROR]: Log is not defined for Negative numbers and 0");
                         return;
                     }
                     break;
@@ -109,7 +109,7 @@ public class Calculator {
                     logging.info("[INFO]: Exiting, entered choice doesn't have any functionality.");
             }
         }while(choice<=4);
-        System.out.println("\n\n\t\t\t\t\t\t\t\t\t\t\t You are exiting");
+        System.out.println("\n\n\t\t\t\t\t\t\t\t\t Thanks for visiting");
         System.out.println("----------------------------------------------------------------------------------------------");
     }
 
