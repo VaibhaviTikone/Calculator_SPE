@@ -13,10 +13,12 @@ public class Calculator {
     {
         Calculator calc = new Calculator();
         int choice;
+        logging.info("Starting the calculator");
         System.out.println("\n\n\n\n----------------------------------------------------------------------------------------------");
         System.out.println("\t\t\t\t\t\t\t\tWelcome to scientific calculator");
         do{
             try{
+
                 System.out.println("\n1. Square root \n2. Factorial\n3. Natural log\n4. Power\n5. Exit");
                 System.out.print("\nEnter your choice: ");
                 choice = scanner.nextInt();
