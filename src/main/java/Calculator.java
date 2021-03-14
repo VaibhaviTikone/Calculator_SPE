@@ -117,7 +117,6 @@ public class Calculator {
 
     public double Sqrt(double sqrt)
     {
-
         logging.info("[INFO]: value: " + sqrt);
         if(sqrt<0)
         {
@@ -126,22 +125,16 @@ public class Calculator {
         }
         return Math.sqrt(sqrt);
     }
-
-
     public double Factorial(double n)
     {
         logging.info("[INFO]: I/P for factorial: " + n);
         if(n<0) return Double.NaN;
         double factorial=1;
         for(int i = 2; i <= n; ++i)
-        {
-
-            factorial*=i;
-        }
+             factorial*=i;
         logging.info("[INFO]: Factorial result: " + factorial);
         return factorial;
     }
-
     public double Log(double logVal)
     {
         logging.info("[INFO]: Value: "+logVal);
