@@ -20,7 +20,6 @@ public class CalculatorTest {
         assertEquals("[Positive Case]: Factorial of a number, ",5040,calc.Factorial(7),DELTA);
         assertEquals("[Positive Case]: Factorial of a number, ",Double.NaN,calc.Factorial(-2),DELTA);
     }
-
     @Test
     public void factorialNegative()
     {
@@ -28,7 +27,6 @@ public class CalculatorTest {
         assertNotEquals("[Negative Case]: Factorial of a number,",120,calc.Factorial(7),DELTA);
         assertNotEquals("[Negative Case]: Factorial of a number,",5,calc.Factorial(-3),DELTA);
     }
-
     @Test
     public  void  exponentiationPositive()
     {
@@ -36,8 +34,6 @@ public class CalculatorTest {
         assertEquals("[Positive Case]: Power of a number, ",0.1111111111,calc.Power(3,-2),DELTA);
         assertEquals("[Positive Case]: Power of a number, ",Double.NaN,calc.Power(0,0),DELTA);
     }
-
-
     @Test
     public  void  exponentiationNegative()
     {
@@ -45,7 +41,6 @@ public class CalculatorTest {
         assertNotEquals("[Negative Case]: Power of a Number, ",0.1111111122,calc.Power(3,-2),DELTA);
         assertNotEquals("[Negative Case]: Power of a Number, ",1,calc.Power(0,0),DELTA);
     }
-
     @Test
     public  void  logPositive()
     {
@@ -53,8 +48,6 @@ public class CalculatorTest {
         assertEquals("[Positive Case]: Log of a number, ",Double.NEGATIVE_INFINITY,calc.Log(0),DELTA);
         assertEquals("[Positive Case]: Log of a number, ",Double.NaN,calc.Log(-5),DELTA);
     }
-
-
     @Test
     public  void  logNegative()
     {
@@ -63,8 +56,6 @@ public class CalculatorTest {
         assertNotEquals("[Negative Case]: Log of a number, ", 0, calc.Log(0), DELTA);
         assertNotEquals("[Negative Case]: Log of a number, ", 9.0, calc.Log(-5), DELTA);
     }
-
-
     @Test
     public void sqrtPositive(){
         assertEquals("[Positive Case]: SQRT of a number, ", 2, calc.Sqrt(4), DELTA);
@@ -72,7 +63,6 @@ public class CalculatorTest {
         assertEquals("[Positive Case]: SQRT of a number, ", 0, calc.Sqrt(0), DELTA);
         assertEquals("[Positive Case]: SQRT of a number, ", Double.NaN, calc.Sqrt(-2), DELTA);
     }
-
     @Test
     public void sqrtNegative(){
         assertNotEquals("[Negative Case]: SQRT of a number, ", 6, calc.Sqrt(4), DELTA);

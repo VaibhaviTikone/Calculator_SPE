@@ -65,3 +65,67 @@
 13/Mar/2021:16:36:55 327 [Calculator.java] [INFO] Calculator Starting the calculator
 13/Mar/2021:16:37:03 416 [Calculator.java] [INFO] Calculator [INFO]: value: 65.0
 13/Mar/2021:16:37:06 611 [Calculator.java] [INFO] Calculator [INFO]: Exiting, entered choice doesn't have any functionality.
+15/Mar/2021:18:54:32 155 [Calculator.java] [INFO] Calculator [INFO]: Value: 10.0
+15/Mar/2021:18:54:32 158 [Calculator.java] [INFO] Calculator [INFO]: Value: 0.0
+15/Mar/2021:18:54:32 158 [Calculator.java] [INFO] Calculator [INFO]: Value: -5.0
+15/Mar/2021:18:54:32 159 [Calculator.java] [INFO] Calculator [INFO]: Value: 3.0
+15/Mar/2021:18:54:32 159 [Calculator.java] [INFO] Calculator [INFO]: Value: 1.6
+15/Mar/2021:18:54:32 159 [Calculator.java] [INFO] Calculator [INFO]: Value: 0.0
+15/Mar/2021:18:54:32 159 [Calculator.java] [INFO] Calculator [INFO]: Value: -5.0
+15/Mar/2021:18:54:32 160 [Calculator.java] [INFO] Calculator [INFO]: Base: 2.0 Exponent: 5.0
+15/Mar/2021:18:54:32 160 [Calculator.java] [INFO] Calculator [INFO]: Base: 3.0 Exponent: -2.0
+15/Mar/2021:18:54:32 160 [Calculator.java] [INFO] Calculator [INFO]: Base: 0.0 Exponent: 0.0
+15/Mar/2021:18:54:32 161 [Calculator.java] [INFO] Calculator [INFO]: Base: 2.0 Exponent: 5.0
+15/Mar/2021:18:54:32 161 [Calculator.java] [INFO] Calculator [INFO]: Base: 3.0 Exponent: -2.0
+15/Mar/2021:18:54:32 161 [Calculator.java] [INFO] Calculator [INFO]: Base: 0.0 Exponent: 0.0
+15/Mar/2021:18:54:32 162 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: 5.0
+15/Mar/2021:18:54:32 162 [Calculator.java] [INFO] Calculator [INFO]: Factorial result: 120.0
+15/Mar/2021:18:54:32 162 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: 7.0
+15/Mar/2021:18:54:32 162 [Calculator.java] [INFO] Calculator [INFO]: Factorial result: 5040.0
+15/Mar/2021:18:54:32 162 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: -2.0
+15/Mar/2021:18:54:32 163 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: 5.0
+15/Mar/2021:18:54:32 163 [Calculator.java] [INFO] Calculator [INFO]: Factorial result: 120.0
+15/Mar/2021:18:54:32 163 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: 7.0
+15/Mar/2021:18:54:32 164 [Calculator.java] [INFO] Calculator [INFO]: Factorial result: 5040.0
+15/Mar/2021:18:54:32 164 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: -3.0
+15/Mar/2021:18:54:32 165 [Calculator.java] [INFO] Calculator [INFO]: value: 4.0
+15/Mar/2021:18:54:32 165 [Calculator.java] [INFO] Calculator [INFO]: value: 5.0
+15/Mar/2021:18:54:32 165 [Calculator.java] [INFO] Calculator [INFO]: value: 0.0
+15/Mar/2021:18:54:32 165 [Calculator.java] [INFO] Calculator [INFO]: value: -2.0
+15/Mar/2021:18:54:32 166 [Calculator.java] [ERROR] Calculator [ERROR]: square root is not defined for negative numbers
+15/Mar/2021:18:54:32 167 [Calculator.java] [INFO] Calculator [INFO]: value: 4.0
+15/Mar/2021:18:54:32 167 [Calculator.java] [INFO] Calculator [INFO]: value: 2.1
+15/Mar/2021:18:54:32 167 [Calculator.java] [INFO] Calculator [INFO]: value: -5.0
+15/Mar/2021:18:54:32 167 [Calculator.java] [ERROR] Calculator [ERROR]: square root is not defined for negative numbers
+15/Mar/2021:19:24:17 920 [Calculator.java] [INFO] Calculator [INFO]: Value: 10.0
+15/Mar/2021:19:24:17 925 [Calculator.java] [INFO] Calculator [INFO]: Value: 0.0
+15/Mar/2021:19:24:17 925 [Calculator.java] [INFO] Calculator [INFO]: Value: -5.0
+15/Mar/2021:19:24:17 927 [Calculator.java] [INFO] Calculator [INFO]: Value: 3.0
+15/Mar/2021:19:24:17 928 [Calculator.java] [INFO] Calculator [INFO]: Value: 1.6
+15/Mar/2021:19:24:17 928 [Calculator.java] [INFO] Calculator [INFO]: Value: 0.0
+15/Mar/2021:19:24:17 929 [Calculator.java] [INFO] Calculator [INFO]: Value: -5.0
+15/Mar/2021:19:24:17 930 [Calculator.java] [INFO] Calculator [INFO]: Base: 2.0 Exponent: 5.0
+15/Mar/2021:19:24:17 931 [Calculator.java] [INFO] Calculator [INFO]: Base: 3.0 Exponent: -2.0
+15/Mar/2021:19:24:17 932 [Calculator.java] [INFO] Calculator [INFO]: Base: 0.0 Exponent: 0.0
+15/Mar/2021:19:24:17 933 [Calculator.java] [INFO] Calculator [INFO]: Base: 2.0 Exponent: 5.0
+15/Mar/2021:19:24:17 934 [Calculator.java] [INFO] Calculator [INFO]: Base: 3.0 Exponent: -2.0
+15/Mar/2021:19:24:17 935 [Calculator.java] [INFO] Calculator [INFO]: Base: 0.0 Exponent: 0.0
+15/Mar/2021:19:24:17 936 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: 5.0
+15/Mar/2021:19:24:17 937 [Calculator.java] [INFO] Calculator [INFO]: Factorial result: 120.0
+15/Mar/2021:19:24:17 937 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: 7.0
+15/Mar/2021:19:24:17 938 [Calculator.java] [INFO] Calculator [INFO]: Factorial result: 5040.0
+15/Mar/2021:19:24:17 938 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: -2.0
+15/Mar/2021:19:24:17 940 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: 5.0
+15/Mar/2021:19:24:17 940 [Calculator.java] [INFO] Calculator [INFO]: Factorial result: 120.0
+15/Mar/2021:19:24:17 941 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: 7.0
+15/Mar/2021:19:24:17 941 [Calculator.java] [INFO] Calculator [INFO]: Factorial result: 5040.0
+15/Mar/2021:19:24:17 942 [Calculator.java] [INFO] Calculator [INFO]: I/P for factorial: -3.0
+15/Mar/2021:19:24:17 943 [Calculator.java] [INFO] Calculator [INFO]: value: 4.0
+15/Mar/2021:19:24:17 943 [Calculator.java] [INFO] Calculator [INFO]: value: 5.0
+15/Mar/2021:19:24:17 944 [Calculator.java] [INFO] Calculator [INFO]: value: 0.0
+15/Mar/2021:19:24:17 944 [Calculator.java] [INFO] Calculator [INFO]: value: -2.0
+15/Mar/2021:19:24:17 945 [Calculator.java] [ERROR] Calculator [ERROR]: square root is not defined for negative numbers
+15/Mar/2021:19:24:17 946 [Calculator.java] [INFO] Calculator [INFO]: value: 4.0
+15/Mar/2021:19:24:17 946 [Calculator.java] [INFO] Calculator [INFO]: value: 2.1
+15/Mar/2021:19:24:17 947 [Calculator.java] [INFO] Calculator [INFO]: value: -5.0
+15/Mar/2021:19:24:17 948 [Calculator.java] [ERROR] Calculator [ERROR]: square root is not defined for negative numbers
